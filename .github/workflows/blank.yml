@@ -34,9 +34,9 @@ jobs:
          git pull
          git add README.md
          git add bing-wallpaper.md
-         git add picture/*
-         git add docs/*
-         git add zh-cn/*
+         git add picture/* || true
+         git add docs/* || true
+         git add zh-cn/* || true
          git commit -m "update readme.md"
     - name: Push changes
       uses:  ad-m/github-push-action@master
