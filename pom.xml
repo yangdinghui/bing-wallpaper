@@ -38,7 +38,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>cn.halo.bing</mainClass>
+                            <mainClass>cn.halo.bing.Wallpaper</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
