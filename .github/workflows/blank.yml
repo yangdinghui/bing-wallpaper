@@ -3,14 +3,13 @@
 name: Java CI with Maven
 on:
   push:
-    branches:
-      - main
-  pull_request:
+   # 在push main分支时触发
     branches:
       - main
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '4 7,17 * * *'
+    #分钟、小时、日、月、周
+    - cron:  '0 7,17 * * *'
 
 jobs:
   build:
