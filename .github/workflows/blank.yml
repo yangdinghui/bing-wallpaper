@@ -2,14 +2,14 @@
 # For more information see: https://help.github.com/actions/language-and-framework-guides/building-and-testing-java-with-maven
 name: Java CI with Maven
 on:
-  push:
-   # 在push main分支时触发
-    branches:
-      - main
+  # push:
+  #  # 在push main分支时触发
+  #   branches:
+  #     - main
   schedule:
     # * is a special character in YAML so you have to quote this string
-    #分钟、小时、日、月、周
-    - cron:  '0 7,17 * * *'
+    #分钟、小时、日、月、周 UTC时间每天凌晨1点左右，UTC+8对应时间为早上9点左右
+    - cron:  '0 1 * * *'
 
 jobs:
   build:
