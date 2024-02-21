@@ -9,6 +9,8 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 import java.util.List;
 
 /**
@@ -38,9 +40,16 @@ public class Wallpaper {
         // 图片版权
         String copyright = (String) jsonArray.getJSONObject(0).get("copyright");
 
+        // 获取当天时间格式：yyyyMMdd
+        String yyyyMMdd = DateTimeFormatter.ofPattern("yyyyMMdd").format(LocalDate.now());
+
         // 格式化为 MD 格式
         String text = String.format("%s | [%s](%s) ", enddate, copyright, url) + System.lineSeparator();
         System.out.println(text);
+
+        // 获取当前爬取的数据日期
+        String textHeader = text.substring(0, 9);
+        System.out.println(textHeader);
 
         // 写入 MD 文件
         Path path = Paths.get("README.md");
@@ -48,6 +57,11 @@ public class Wallpaper {
             Files.createFile(path);
         }
         List<String> allLines = Files.readAllLines(path);
+
+        // 若文件内数据已经存在则不再写入
+        boolean anyMatch = allLines.stream().anyMatch(e -> e.contains(textHeader));
+        if (anyMatch) return;
+
         if (allLines.isEmpty()) {
             allLines.add(text);
         } else {
