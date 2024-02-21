@@ -11,6 +11,7 @@ import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
+import java.time.temporal.TemporalAccessor;
 import java.util.List;
 
 /**
@@ -40,19 +41,27 @@ public class Wallpaper {
         // 图片版权
         String copyright = (String) jsonArray.getJSONObject(0).get("copyright");
 
-        // 获取当天时间格式：yyyyMMdd
-        String yyyyMMdd = DateTimeFormatter.ofPattern("yyyyMMdd").format(LocalDate.now());
+        TemporalAccessor sourceTemp = DateTimeFormatter.ofPattern("yyyyMMdd").parse(enddate);
+        String enddateOfMd2 = DateTimeFormatter.ofPattern("yyyy-MM-dd").format(sourceTemp);
 
         // 格式化为 MD 格式
         String text = String.format("%s | [%s](%s) ", enddate, copyright, url) + System.lineSeparator();
         System.out.println(text);
+
+        String text2 = String.format("%s | [%s](%s) ", enddateOfMd2, copyright, url) + System.lineSeparator();
+        System.out.println(text2);
 
         // 获取当前爬取的数据日期
         String textHeader = text.substring(0, 9);
         System.out.println(textHeader);
 
         // 写入 MD 文件
-        Path path = Paths.get("README.md");
+        writeMd(text, textHeader, "README.md");
+        writeMd(text2, textHeader, "bing-wallpaper.md");
+    }
+
+    private static void writeMd(String text, String textHeader, String mdFile) throws IOException {
+        Path path = Paths.get(mdFile);
         if (!Files.exists(path)) {
             Files.createFile(path);
         }
