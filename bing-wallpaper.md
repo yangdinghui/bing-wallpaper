@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-20 | [A young jaguar on a riverbank, Pantanal, Brazil (© Tambako the Jaguar/Getty Images)](https://cn.bing.com/th?id=OHR.YoungJaguar_EN-US8866928893_UHD.jpg) 
+
 2024-07-18 | [Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images)](https://cn.bing.com/th?id=OHR.MedievalRothenburg_EN-US8575765997_UHD.jpg) 
 
 2024-07-17 | [The Neolithic settlement of Skara Brae, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)](https://cn.bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg) 
