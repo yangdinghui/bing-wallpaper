@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+20240723 | [Hammock camping on a lake in Central Florida (© Mac Stone/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HammockCamping_EN-US9298465355_UHD.jpg) 
+
 20240722 | [Wooden fishing boats at Kendwa, Zanzibar, Tanzania (© Lubos Paukeje/Alamy)](https://cn.bing.com/th?id=OHR.ZanzibarBoats_EN-US9009404410_UHD.jpg) 
 
 20240721 | [The moon (© Victor Blum/Getty Images)](https://cn.bing.com/th?id=OHR.MineralMoon_EN-US8936600169_UHD.jpg) 
