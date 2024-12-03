@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+20241203 | [Female moose, Denali National Park, Alaska (© Cavan Images/Alamy)](https://cn.bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg) 
+
 20241202 | [Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg) 
 
 20241201 | [Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)](https://cn.bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_UHD.jpg) 
