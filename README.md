@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+20250203 | [Young alpine marmot (© Jonas Fichtner-Pflaum/Getty Images)](https://cn.bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg) 
+
 20250202 | [National Museum of African American History & Culture, Washington, DC (© BrianPIrwin/Shutterstock)](https://cn.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg) 
 
 20250201 | [Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutterstock)](https://cn.bing.com/th?id=OHR.PlainsZebra_EN-US9488790690_UHD.jpg) 
