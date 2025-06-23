@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-23 | [Amazon rainforest, Ecuador (© Mark Fox/Getty Images)](https://cn.bing.com/th?id=OHR.AmazonEcuador_EN-US2195278379_UHD.jpg) 
+
 2025-06-22 | [Amazon rainforest, Ecuador (© Mark Fox/Getty Images)](https://cn.bing.com/th?id=OHR.AmazonEcuador_EN-GB9331182171_UHD.jpg) 
 
 2025-06-20 | [Texas State Capitol in Austin (© joe daniel price/Getty Images)](https://cn.bing.com/th?id=OHR.TexasCapitol_EN-US1992205396_UHD.jpg) 
