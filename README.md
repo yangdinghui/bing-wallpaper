@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+20250709 | [Seceda, a peak in the Dolomites, South Tyrol, Italy (© Kalyakan/Adobe Stock)](https://cn.bing.com/th?id=OHR.SecedaPeak_EN-US0983713623_UHD.jpg) 
+
 20250708 | [Northern gannets diving for fish, Shetland Islands, Scotland (© Richard Shucksmith/Minden Pictures)](https://cn.bing.com/th?id=OHR.ShetlandGannets_EN-US0812287314_UHD.jpg) 
 
 20250707 | [Mesquite Flat Sand Dunes in Death Valley National Park, California (© Bryan Jolley/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MesquiteFlats_EN-US0638943216_UHD.jpg) 
