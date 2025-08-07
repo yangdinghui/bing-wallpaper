@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+20250807 | [Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii (© Russ Bishop/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.NaPaliKauai_EN-US7451684312_UHD.jpg) 
+
 20250806 | [Tide pools in La Jolla, California (© Andrew Shoemaker/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.CaliforniaTidepool_EN-US9089576317_UHD.jpg) 
 
 20250805 | [Great gray owls in their nest, Finland (© imageBROKER.com/Alamy)](https://cn.bing.com/th?id=OHR.LaplandOwl_EN-US8965493818_UHD.jpg) 
