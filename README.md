@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+20250920 | [Thousand Islands region, St. Lawrence River, US-Canada border (© benedek/Getty Images)](https://cn.bing.com/th?id=OHR.ThousandIslands_EN-US7884567746_UHD.jpg) 
+
 20250919 | [Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty Images)](https://cn.bing.com/th?id=OHR.DunquinIreland_EN-US9846056364_UHD.jpg) 
 
 20250918 | [Young bull moose in Denali National Park, Alaska (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.YoungMoose_EN-US2991221135_UHD.jpg) 
