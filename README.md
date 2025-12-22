@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+20251222 | [Dawn light through frosty trees, Sweden (© Schon/Getty Images)](https://cn.bing.com/th?id=OHR.SwedenSolstice_EN-US5470044971_UHD.jpg) 
+
 20251221 | [Christmas star lanterns, Germany (© artas/Getty Images)](https://cn.bing.com/th?id=OHR.StarLanterns_EN-US5419993556_UHD.jpg) 
 
 20251220 | [Snow-covered landscape at Bormio, Lombardy, Italy (�� Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg) 
