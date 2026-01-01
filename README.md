@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+20260101 | [New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)](https://cn.bing.com/th?id=OHR.GermanyNewYear_EN-US6344260060_UHD.jpg) 
+
 20251231 | [Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)](https://cn.bing.com/th?id=OHR.JapanSwans_EN-US6228421340_UHD.jpg) 
 
 20251230 | [St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)](https://cn.bing.com/th?id=OHR.AniTurkey_EN-US6168768263_UHD.jpg) 
