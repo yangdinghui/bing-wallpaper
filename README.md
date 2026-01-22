@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+20260122 | [Eurasian red squirrel (© Galina Jacyna/Getty Images)](https://cn.bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_UHD.jpg) 
+
 20260121 | [Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com/Alamy)](https://cn.bing.com/th?id=OHR.IciclePenguin_EN-US0727591285_UHD.jpg) 
 
 20260120 | [Washington Monument seen from Lincoln Memorial, Washington, DC (© RickSause/Getty Images)](https://cn.bing.com/th?id=OHR.MLKSunrise_EN-US0641684404_UHD.jpg) 
