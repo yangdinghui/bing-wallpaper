@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+20260125 | [Andermatt village in the Alps, Switzerland (© Xantana/Getty Images)](https://cn.bing.com/th?id=OHR.AndermattSwiss_EN-US9318337691_UHD.jpg) 
+
 20260124 | [Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images)](https://cn.bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_UHD.jpg) 
 
 20260123 | [Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images)](https://cn.bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_UHD.jpg) 
