@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+20260412 | [Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)](https://cn.bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_UHD.jpg) 
+
 20260411 | [Two young red foxes at Karula National Park, Estonia (© Sven Zacek/Nature Picture Library)](https://cn.bing.com/th?id=OHR.FoxSiblings_EN-US7533678992_UHD.jpg) 
 
 20260410 | [Sgwd yr Eira waterfall, Bannau Brycheiniog National Park, Wales (© Guy Edwardes/Nature Picture Library)](https://cn.bing.com/th?id=OHR.WalesWaterfall_EN-US7187055503_UHD.jpg) 
