@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+20260520 | [Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)](https://cn.bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_UHD.jpg) 
+
 20260519 | [Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg) 
 
 20260518 | [Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images)](https://cn.bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg) 
