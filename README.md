@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+20261009 | [Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)](https://cn.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg) 
+
 20261007 | [Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)](https://cn.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg) 
 
 20261005 | [Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)](https://cn.bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg) 
