@@ -1,6 +1,8 @@
 ## Bing Wallpaper
 2026-10-14 | [Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)](https://cn.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg) 
 
+2026-10-14 | [Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)](https://cn.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg) 
+
 2026-10-12 | [Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)](https://cn.bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg) 
 
 2026-10-11 | [Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)](https://cn.bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg) 
